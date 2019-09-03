@@ -1,0 +1,22 @@
+<resources>
+ 
+    <string name="text_hint_remain">Digite o texto que você deseja exibir</string>
+    <string name="font_size">Tamanho da fonte</string>
+    <string name="small">Pequeno</string>
+    <string name="medium">Médio</string>
+    <string name="large">ampla</string>
+    <string name="very_large">Muito grande</string>
+    <string name="extra_large">Extra grande</string>
+    <string name="font_color">Cor da fonte</string>
+    <string name="scrolling_speed">Velocidade de rolagem</string>
+    <string name="background_color">Cor de fundo</string>
+    <string name="next">Próximo</string>
+    <string name="setting">Configuração</string>
+    <string name="version">Versão</string>
+    <string name="hell0_world">Olá Mundo</string>
+    <string name="i_love">Eu te amo</string>
+    <string name="delete_record">Tem certeza de excluir este registro?</string>
+    <string name="yes">sim</string>
+    <string name="no">No</string>
+    <string name="quit_app">Você tem certeza de sair do aplicativo?</string>
+</resources>

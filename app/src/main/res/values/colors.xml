@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="popop_bg">#E6161313</color>
+    <color name="text_select_bg">#55a32f</color>
+
+    <color name="color1">#FF2100</color>
+    <color name="color2">#FF0000</color>
+    <color name="color3">#44FF00</color>
+    <color name="color4">#0048FF</color>
+    <color name="color5">#FFF200</color>
+    <color name="color6">#A500FF</color>
+    <color name="color7">#FF00A4</color>
+
+
+    <color name="seek_progress">#7cff3b</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="his_bg">#CD000000</color>
+    <color name="next_color">#1141A2</color>
+
+</resources>

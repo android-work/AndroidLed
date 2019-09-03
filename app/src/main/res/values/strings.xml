@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">LEDScrollerLite</string>
+
+    <string name="text_hint_remain">Enter the text you want to display</string>
+    <string name="font_size">Font Size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="very_large">Very Large</string>
+    <string name="extra_large">Extra Large</string>
+    <string name="font_color">Font Color</string>
+    <string name="scrolling_speed">Scrolling Speed</string>
+    <string name="background_color">Background Color</string>
+    <string name="next">Next</string>
+    <string name="setting">Setting</string>
+    <string name="version">Version</string>
+    <string name="hell0_world">Hello World</string>
+    <string name="i_love">I Love You</string>
+    <string name="delete_record">Are you sure delete this record?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="quit_app">Are you sure to quit the App?</string>
+    <string name="input_content">Please enter scrolling content</string>
+</resources>

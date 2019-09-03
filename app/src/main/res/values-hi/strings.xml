@@ -1,0 +1,22 @@
+<resources>
+ 
+    <string name="text_hint_remain">वह पाठ दर्ज करें जिसे आप दिखाना चाहते हैं</string>
+    <string name="font_size">फ़ॉन्ट आकार</string>
+    <string name="small">छोटा</string>
+    <string name="medium">मध्यम</string>
+    <string name="large">विशाल</string>
+    <string name="very_large">बहुत बड़ा</string>
+    <string name="extra_large">ज्यादा बड़ा</string>
+    <string name="font_color">लिपि का रंग</string>
+    <string name="scrolling_speed">स्क्रॉलिंग गति</string>
+    <string name="background_color">पीछे का रंग</string>
+    <string name="next">आगामी</string>
+    <string name="setting">सेटिंग</string>
+    <string name="version">संस्करण</string>
+    <string name="hell0_world">नमस्ते दुनिया</string>
+    <string name="i_love">मैं तुमसे प्यार करता हूँ</string>
+    <string name="delete_record">क्या आप वाकई इस रिकॉर्ड को हटाना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="quit_app">क्या आप ऐप छोड़ना सुनिश्चित करते हैं?</string>
+</resources>

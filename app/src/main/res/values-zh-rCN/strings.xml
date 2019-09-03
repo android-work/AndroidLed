@@ -1,0 +1,22 @@
+<resources>
+ 
+    <string name="text_hint_remain">输入要显示的文本</string>
+    <string name="font_size">字体大小</string>
+    <string name="small">小</string>
+    <string name="medium">中</string>
+    <string name="large">大</string>
+    <string name="very_large">很大</string>
+    <string name="extra_large">特大号</string>
+    <string name="font_color">字体颜色</string>
+    <string name="scrolling_speed">滚动速度</string>
+    <string name="background_color">背景颜色</string>
+    <string name="next">下一个</string>
+    <string name="setting">设置</string>
+    <string name="version">版</string>
+    <string name="hell0_world">你好，世界</string>
+    <string name="i_love">我爱你</string>
+    <string name="delete_record">你确定删除这条记录吗？</string>
+    <string name="yes">是</string>
+    <string name="no">没有</string>
+    <string name="quit_app">你确定退出了应用程序吗？</string>
+</resources>

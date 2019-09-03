@@ -1,0 +1,22 @@
+<resources>
+ 
+    <string name="text_hint_remain">Введите текст, который вы хотите отобразить</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="small">Маленький</string>
+    <string name="medium">Средняя</string>
+    <string name="large">большой</string>
+    <string name="very_large">Очень большой</string>
+    <string name="extra_large">Очень большой</string>
+    <string name="font_color">Цвет шрифта</string>
+    <string name="scrolling_speed">Скорость прокрутки</string>
+    <string name="background_color">Фоновый цвет</string>
+    <string name="next">следующий</string>
+    <string name="setting">настройка</string>
+    <string name="version">Версия</string>
+    <string name="hell0_world">Привет, мир</string>
+    <string name="i_love">Я люблю тебя</string>
+    <string name="delete_record">Вы уверены, что удалили эту запись?</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="quit_app">Вы уверены, что выйти из приложения?</string>
+</resources>

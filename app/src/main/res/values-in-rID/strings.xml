@@ -1,0 +1,22 @@
+<resources>
+ 
+    <string name="text_hint_remain">Masukkan teks yang ingin Anda tampilkan</string>
+    <string name="font_size">Ukuran huruf</string>
+    <string name="small">Kecil</string>
+    <string name="medium">Medium</string>
+    <string name="large">Besar</string>
+    <string name="very_large">Sangat besar</string>
+    <string name="extra_large">Ekstra besar</string>
+    <string name="font_color">Warna huruf</string>
+    <string name="scrolling_speed">Kecepatan gulir</string>
+    <string name="background_color">Warna latar belakang</string>
+    <string name="next">Berikutnya</string>
+    <string name="setting">Pengaturan</string>
+    <string name="version">Versi</string>
+    <string name="hell0_world">Halo Dunia</string>
+    <string name="i_love">Aku cinta kamu</string>
+    <string name="delete_record">Apakah Anda yakin menghapus catatan ini?</string>
+    <string name="yes">iya nih</string>
+    <string name="no">Tidak</string>
+    <string name="quit_app">Apakah Anda yakin untuk keluar dari Aplikasi?</string>
+</resources>

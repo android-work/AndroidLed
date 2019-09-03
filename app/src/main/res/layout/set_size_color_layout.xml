@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/his_bg">
+
+    <ImageView
+        android:id="@+id/set_size_color_back"
+        android:padding="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@mipmap/ic_back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/font_size"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"/>
+
+    <com.led.scroller.lite.view.TextChoseSizeLinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:id="@+id/set_text_size_chose"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/font_color"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:layout_marginLeft="20sp"/>
+
+    <com.led.scroller.lite.view.CircleChoseLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/set_text_color_chose"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/scrolling_speed"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:layout_marginLeft="20sp"/>
+
+    <SeekBar
+        android:layout_marginTop="20dp"
+        android:id="@+id/set_speed_seekbar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:maxHeight="3dp"
+        android:minHeight="3dp"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="20"
+        android:splitTrack="false"
+        android:progressDrawable="@drawable/seek_bg"
+        android:thumb="@drawable/seek_bar_thumb"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/background_color"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:layout_marginLeft="20sp"/>
+
+    <com.led.scroller.lite.view.CircleChoseLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/set_text_bg_chose"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/set_next"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/next"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:background="@color/next_color"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+
+</LinearLayout>

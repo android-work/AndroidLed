@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/item_rl"
+    android:background="#CD202020">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_margin="10dp"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@mipmap/ic_file"/>
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/iv"
+        android:id="@+id/item_tv"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="奔跑吧！野驴"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:maxLength="28" />
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@mipmap/ic_keyboard_arrow_right"/>
+
+
+</RelativeLayout>
